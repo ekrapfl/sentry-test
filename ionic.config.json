@@ -1,0 +1,7 @@
+{
+  "name": "sentry-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
